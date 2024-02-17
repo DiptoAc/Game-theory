@@ -50,6 +50,7 @@ int32_t main()
     }
 }
 /**
-I am saving this problem, because this problem taught me that vector is much 
-efficient for calculating mex
+I am saving this problem because this problem taught me that vector is much 
+efficient for calculating mex.
+Also, the initialisation time with 0 is the same as the initialization time with other values.
 **/
